@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>photo_198.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\image\photo_198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taking photos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>282</ymin>
+			<xmax>394</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

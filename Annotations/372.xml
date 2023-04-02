@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>372.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\image\372.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>534</xmin>
+			<ymin>247</ymin>
+			<xmax>606</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

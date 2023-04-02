@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>other_206.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\image\other_206.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>542</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>315</ymin>
+			<xmax>532</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

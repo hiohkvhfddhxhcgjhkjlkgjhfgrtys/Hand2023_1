@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>867.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\image\867.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-phone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>131</ymin>
+			<xmax>473</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

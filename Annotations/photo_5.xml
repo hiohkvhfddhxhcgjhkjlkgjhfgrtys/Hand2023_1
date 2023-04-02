@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>photo_5.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\image\photo_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taking photos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>94</ymin>
+			<xmax>371</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no-phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>229</ymin>
+			<xmax>574</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

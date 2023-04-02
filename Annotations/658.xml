@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>658.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\image\658.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reading</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>383</ymin>
+			<xmax>470</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>273.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\image\273.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>219</ymin>
+			<xmax>443</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

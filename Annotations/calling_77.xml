@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>calling_77.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\image\calling_77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>164</ymin>
+			<xmax>335</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

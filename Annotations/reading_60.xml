@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>reading_60.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\image\reading_60.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>517</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reading</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>167</ymin>
+			<xmax>530</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

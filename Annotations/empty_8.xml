@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>empty_8.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\image\empty_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>740</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>96</ymin>
+			<xmax>810</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>
